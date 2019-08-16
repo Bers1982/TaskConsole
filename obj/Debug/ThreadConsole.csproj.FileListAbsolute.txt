@@ -1,0 +1,7 @@
+D:\NET_PROJETCS_2017\ITVDN\ThreadConsole\bin\Debug\ThreadConsole.exe.config
+D:\NET_PROJETCS_2017\ITVDN\ThreadConsole\bin\Debug\ThreadConsole.exe
+D:\NET_PROJETCS_2017\ITVDN\ThreadConsole\bin\Debug\ThreadConsole.pdb
+D:\NET_PROJETCS_2017\ITVDN\ThreadConsole\obj\Debug\ThreadConsole.csprojResolveAssemblyReference.cache
+D:\NET_PROJETCS_2017\ITVDN\ThreadConsole\obj\Debug\ThreadConsole.csproj.CoreCompileInputs.cache
+D:\NET_PROJETCS_2017\ITVDN\ThreadConsole\obj\Debug\ThreadConsole.exe
+D:\NET_PROJETCS_2017\ITVDN\ThreadConsole\obj\Debug\ThreadConsole.pdb
